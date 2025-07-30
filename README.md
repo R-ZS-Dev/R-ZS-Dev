@@ -4,7 +4,7 @@
       web project using WordPress. Well-Versed In Numerous programming languages including HTML, CSS, PHP, Java-Script, and Bootstraps in web development and Android Front-End
       By using XML.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/rana-zubair-93199a92/ or rana_zubair109@hotmail.com or +92324-4211081
+- 📫 How to reach me https://www.linkedin.com/in/rana-zubair-93199a92/ or ranazubair696@gmail.com or +92324-4211081
 
 <!---
 R-ZS-Dev/R-ZS-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
