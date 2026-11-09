@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Zubair-Shaheen-Dev.
+- 👋 Hi, I’m @Zubair-Shaheen-Dev (Portfolio: https://zubair-shaheen-portfolio.netlify.app/).
 - 👀 I’m interested to take challenges and furnished my skills.
-- 🌱 I’m currently learning & Professionally Work in front & Back end In Web-Development. Experienced with all stages of the development Cycle for dynamic and Static 
-      web project using WordPress. Well-Versed In Numerous programming languages including HTML, CSS, PHP, Java-Script, and Bootstraps in web development and Android Front-End
-      By using XML.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am a Laravel and PHP developer with 2+ years of hands-on experience building production web applications, REST APIs, admin dashboards and automation tools. I focus on maintainable code, smooth delivery and business value.
 - 📫 How to reach me https://www.linkedin.com/in/rana-zubair-93199a92/ or ranazubair696@gmail.com or +92324-4211081
-
-<!---
-R-ZS-Dev/R-ZS-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
